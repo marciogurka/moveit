@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# moveit
 
-## Getting Started
+This is a Pomodoro timer application built with NextJS. The main goal of moveit is to remember you that you need to exercise while coding in a fun way, with challenges that give you experience while leveling up your account! 🥇
 
-First, run the development server:
+## How to use?
 
-```bash
-npm run dev
-# or
+- Open the application and start the timer
+- After the 25 minutes, a challenge will appear for you to move yourself
+- After finishing the challenge, confirm that in the application and gain experience points
+- Keep that to up your level and keep healthier! ️️🏋
+
+## Technologies
+
+moveit was built using:
+
+- [React](https://reactjs.org)
+- [NextJS](https://nextjs.org)
+
+## Installation
+
+Install the dependencies and start the server.
+
+```sh
+cd moveit
+npm i
+npm dev
+```
+
+or...
+
+```sh
+cd moveit
+yarn install
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Next steps
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+What are the plans for new features of moveit??
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [ ] Add dark theme
+- [ ] Add new sounds
+- [ ] Add sharing options
+- [ ] Login with Github
+- [ ] Leaderboard
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## License
 
-## Learn More
+MIT
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Free Software, Hell Yeah!**
