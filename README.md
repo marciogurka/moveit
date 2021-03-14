@@ -2,7 +2,7 @@
 
 This is a Pomodoro timer application built with NextJS. The main goal of moveit is to remember you that you need to exercise while coding in a fun way, with challenges that give you experience while leveling up your account! 🥇
 
-[Check it live 🌎](moveit-red-xi.vercel.app)
+[Check it live 🌎](https://moveit-red-xi.vercel.app)
 
 ## How to use?
 
